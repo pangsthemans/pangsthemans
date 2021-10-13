@@ -28,5 +28,5 @@
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 
 # Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={pangsthemans}&theme=blue-green)
-![stats](https://github-readme-stats.vercel.app/api?username={pangsthemans}&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pangsthemans&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=pangsthemans&theme=blue-green)
