@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-
-**pangsthemans/pangsthemans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hi](./images/batman.jpg)
 
 Here are some ideas to get you started:
 
